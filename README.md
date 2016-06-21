@@ -44,3 +44,7 @@ Implements the following algorithms:
 * [Bayesian Bandit Explorer (simulation)](https://e76d6ebf22ef8d7e079810f3d1f82ba1e5f145d5.googledrive.com/host/0B2GQktu-wcTiWDB2R2t2a2tMUG8/)
 * [Yelp MOE](http://yelp.github.io/MOE/bandit.html)
 * [Bandit Algorithms for Website Optimization (code)](https://github.com/johnmyleswhite/BanditsBook)
+
+### Some Extras:
+
+*[Multi-Armed Bandits Walkthrough](https://dataorigami.net/blogs/napkin-folding/79031811-multi-armed-bandits)
